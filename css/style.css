@@ -162,3 +162,32 @@ button {
     margin-bottom: 5px;
 }
 
+
+/* Call Styles */
+.call-section {
+    height: 75%;
+    padding: 0px 100px 85px 100px;
+}
+
+.call-content {
+    width: 75%;
+    margin: 0 auto;
+    background-image: url('../images/gradient3.png'), url('../images/watch.png');
+    padding: 25px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.call-title {
+    color: white;
+    font-size: 32px;
+}
+
+.call-content button {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    font-weight: 600;
+}
+
+
